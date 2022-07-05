@@ -1,2 +1,10 @@
 /.venv
 /.idea
+secret_key.json
+/DjangoRestaurantSystem/__pycache__
+/orders/__pycache__
+/orders/migrations/__pycache__
+/payments/__pycache__
+/payments/migrations/__pycache__
+tables/__pycache__
+tables/migrations/__pycache__
